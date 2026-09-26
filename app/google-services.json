@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140348217424",
+    "project_id": "weeklyfoodplannerapp",
+    "storage_bucket": "weeklyfoodplannerapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140348217424:android:d78d46b36eb27409735955",
+        "android_client_info": {
+          "package_name": "com.weeklyfoodplanner.weekyfoodplannerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx4R7rgjE-WDmYuuVe2oovyJg5O_lZL-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
