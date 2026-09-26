@@ -38,6 +38,7 @@ android {
 
 dependencies {
     implementation(platform(libs.androidx.compose.bom))
+    implementation("io.github.cdimascio:dotenv-kotlin:6.5.1")
     implementation("androidx.appcompat:appcompat:1.7.1")
     implementation(platform("com.google.firebase:firebase-bom:34.19.0"))
     implementation("com.firebaseui:firebase-ui-auth:9.0.0")
@@ -64,6 +65,7 @@ dependencies {
     implementation(libs.androidx.material3)
     implementation(libs.androidx.navigation.compose)
     implementation(libs.androidx.room.ktx)
+    implementation(libs.androidx.work.runtime.ktx)
     implementation(libs.firebase.analytics)
     implementation("org.jetbrains.kotlinx:kotlinx-datetime:0.8.0")
     testImplementation(libs.junit)
